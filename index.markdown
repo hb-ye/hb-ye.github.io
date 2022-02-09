@@ -23,13 +23,12 @@ I have a broad spectrum of research interest in transport-related problems, with
 
 - Day-to-day traffic flow dynamics
 
-# - Railway operation and control
-# - Eco-driving (trains and cars)
-
 - Smart and sustainable transportation
   - Autonomous vehicle: management, fuel-economical route guidance, eco-driving
   - Railway: energy-efficient scheduling, eco-driving, automatic train operation
 
+<!-- - Railway operation and control
+# - Eco-driving (trains and cars) -->
 
 ### Contact
 
