@@ -14,6 +14,7 @@ author_profile: true
 
 ### Hong Kong Polytechnic University 
 
+- EE4011 Industrial Computer Applications
 - EE4014 Intelligent Systems Applications in Electrical Engineering
 - EE514  Real Time Computing
 
