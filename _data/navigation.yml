@@ -1,0 +1,20 @@
+# main links links
+main:
+
+  - title: "Publications"
+    url: /publications/
+
+  - title: "Fundings"
+    url: /funding/    
+
+  - title: "Teaching"
+    url: /teaching/    
+
+  - title: "Experience"
+    url: /experience/    
+    
+  - title: "Research resources"
+    url: /resources/
+    
+#  - title: "Guide"
+#    url: /markdown/

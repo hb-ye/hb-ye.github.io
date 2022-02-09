@@ -1,0 +1,1 @@
+Page 264, lines 3-4 below Eq. (9), "Consequently, u(s(v)) is continuous, differentiable, increasing and convex with v": Eq. (9) is not necessarily convex. However, it does not affect the analyses and results in the paper, which do not require the convexity
