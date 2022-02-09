@@ -11,4 +11,4 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %}
 
-- <u>**PI**</u>. Online and globally optimal models for eco-driving on urban road networks. Hong Kong RGC General Research Fund (funded, No. 15209021), 2021-2024, HK$ 711,600
+- **<u>PI</u>**. Online and globally optimal models for eco-driving on urban road networks. Hong Kong RGC General Research Fund (funded, No. 15209021), 2021-2024, HK$ 711,600
