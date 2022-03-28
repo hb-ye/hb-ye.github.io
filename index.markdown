@@ -15,7 +15,9 @@ I have a broad spectrum of research interest in transport-related problems, with
 
 - Funded **PhD positions** are available to work on topics related to the management, operation and control of autonomous vehicles. Candicates with any major are welcomed to apply (incluiding but not limited to Maths, Control, Operations Research, Transportation, etc.), but are expected to have a solid background in mathematical modelling and analysis.
 
-- **Postdoc positions** are available to work on topics related to the eco-driving of autonomous vehicles.
+- **Postdoc positions** are available to work on topics related to (1) the eco-driving of autonomous vehicles, and (2) traffic prediction using deep learning.
+
+- If you are interested, please contact me via email.
 
 ### Research Interest
 
