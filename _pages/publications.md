@@ -24,7 +24,7 @@ Below you can also find the **errata**, **source code** and **author accepted ma
 9. **Ye, H.**, Xiao, F., Yang, H., 2018. Exploration of day-to-day route choice models by a virtual experiment. <u>Transportation Research Part C</u> 94, 220-235, and <u>ISTTT22</u> (poster), Illinois, USA, 2017.
 8. **Ye, H.**, Yang, H., 2017. Rational behavior adjustment process with boundedly rational user equilibrium. <u>Transportation Science</u> 51 (3), 968-980. 
 7. **Ye, H.**, Liu, R., 2017. Nonlinear programming methods based on closed-form expressions for optimal train control. <u>Transportation Research Part C</u> 82, 102-123. [[Codes of Case Studies](/files/2017YL_codes.zip)]
-6. **Ye, H.**, Liu, R., 2016. A multiphase optimal control method for multi-train control and scheduling on railway lines. <u>Transportation Research Part B</u> 93, 377-393.
+6. **Ye, H.**, Liu, R., 2016. A multiphase optimal control method for multi-train control and scheduling on railway lines. <u>Transportation Research Part B</u> 93, 377-393. [[Codes of Case Studies](/files/2016YL_codes.zip)]
 5. Xiao, F., Yang, H., **Ye, H.**, 2016. Physics of day-to-day network flow dynamics. <u>Transportation Research Part B</u> 86, 86-103. [[Errata](/files/2016XYY_Errata.pdf)]
 4. Wang, X.L., **Ye, H.**, Yang, H., 2015. Decentralizing Pareto-efficient network flow/speed patterns with hybrid schemes of speed limit and road pricing. <u>Transportation Research Part E</u> 83, 51-64.
 3. **Ye, H.**, Yang, H., Tan, Z.J., 2015. Learning marginal-cost pricing via a trial-and-error procedure with day-to-day flow dynamics. <u>Transportation Research Part B</u> 81, 794-807, and <u>ISTTT21</u> (lectern), Japan, 2015. 
