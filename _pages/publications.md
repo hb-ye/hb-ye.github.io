@@ -19,7 +19,7 @@ Below you can also find the **errata**, **source code** and **author accepted ma
 
 {: reversed="reversed"}
 12. **Ye, H.**, 2022. On stochastic-user-equilibrium-based day-to-day dynamics. <u>Transportation Science</u> 56 (1), 103–117. [[Author Accepted Manuscript](/files/2022_SUE-DTD_TS_AAM.pdf)]
-11. Wu, F., Bektaş, T., Dong, M., **Ye, H.**, Zhang, D., 2021. Optimal driving for vehicle fuel economy under traffic speed uncertainty. <u>Transportation Research Part B</u> 154, 175-206.
+11. Wu, F., Bektaş, T., Dong, M., **Ye, H.**, Zhang, D., 2021. Optimal driving for vehicle fuel economy under traffic speed uncertainty. <u>Transportation Research Part B</u> 154, 175-206. [[Presentation] (/files/2021Wu_Presentation.pdf)]
 10. **Ye, H.**, Xiao, F., Yang, H., 2021. Day-to-day dynamics with advanced traveler information. <u>Transportation Research Part B</u> 144, 23-44. [[Author Accepted Manuscript](/files/2021YXY_AAM.pdf)]
 9. **Ye, H.**, Xiao, F., Yang, H., 2018. Exploration of day-to-day route choice models by a virtual experiment. <u>Transportation Research Part C</u> 94, 220-235, and <u>ISTTT22</u> (poster), Illinois, USA, 2017.
 8. **Ye, H.**, Yang, H., 2017. Rational behavior adjustment process with boundedly rational user equilibrium. <u>Transportation Science</u> 51 (3), 968-980. 
