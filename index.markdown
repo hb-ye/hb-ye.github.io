@@ -13,11 +13,11 @@ I have a broad spectrum of research interest in transport-related problems, with
 
 ### Vacancies for PhD and Postdoc
 
-- Funded **PhD positions** are available to work on topics related to the application of optimization techniques on transportation problems, including but not related to management, operation and control of autonomous vehicles.
+- Funded **PhD positions** are available to work on topics related to the application of optimization techniques on transportation problems, including but not limited to the management, operation and control of autonomous vehicles.
 
-  - Candicates with any background are welcomed to apply (including but not limited to Maths, Control, Operations Research, and Transportation), but are expected to have a solid background in mathematical modelling/analysis/optimization.
+  - Candicates of any major are welcomed to apply (including but not limited to Maths, Control, Operations Research, and Transportation), but are expected to have a solid background in mathematical modelling/analysis/optimization.
 
-  - PhD scholarship oppotunities include the Hong Kong PhD Fellowship, PolyU Presidential PhD Fellowship, and PolyU Research Postgraduate Scholarship. Details can be find at [this webpage (PolyU Graduate School](https://www.polyu.edu.hk/en/gs/prospective-students/fellowship-scholarship-schemes/)
+  - PhD scholarship oppotunities include Hong Kong PhD Fellowship, PolyU Presidential PhD Fellowship, and PolyU Research Postgraduate Scholarship. Details can be find at [this webpage (PolyU Graduate School](https://www.polyu.edu.hk/en/gs/prospective-students/fellowship-scholarship-schemes/)
 
 - **Postdoc positions** are available.
 
