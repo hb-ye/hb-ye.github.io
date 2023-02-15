@@ -17,7 +17,7 @@ I have a broad spectrum of research interest in transport-related problems, with
 
   - Candicates with any background are welcomed to apply (including but not limited to Maths, Control, Operations Research, and Transportation), but are expected to have a solid background in mathematical modelling/analysis/optimization.
 
-  - PhD scholarship oppotunities include the Hong Kong PhD Fellowship (HK\$27100/month), PolyU Presidential PhD Fellowship (HK\$26800/month) and the PolyU Research Postgraduate Scholarship (HK\$18100/month). Details can be find at [this webpage (PolyU Graduate School] (https://www.polyu.edu.hk/en/gs/prospective-students/fellowship-scholarship-schemes/)
+  - PhD scholarship oppotunities include the Hong Kong PhD Fellowship, PolyU Presidential PhD Fellowship, and PolyU Research Postgraduate Scholarship. Details can be find at [this webpage (PolyU Graduate School](https://www.polyu.edu.hk/en/gs/prospective-students/fellowship-scholarship-schemes/)
 
 - **Postdoc positions** are available.
 
