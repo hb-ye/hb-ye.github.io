@@ -7,7 +7,7 @@ layout: archive
 
 Welcome to my personal webpage!
 
-I am currently a **Research Assistant Professor** in the Department of Electrical Engineering at Hong Kong Polytechnic University.
+I am currently a **Research Assistant Professor** in the Department of Electrical and Electronic Engineering at Hong Kong Polytechnic University.
 
 I have a broad spectrum of research interest in transport-related problems, with an aim to improve the system efficiency and sustainability to benefit both the travellers and the operators.  I have utilized optimisation and control theory in the modelling and analysis of rail and road systems as well as their operation, management and control.
 
@@ -17,7 +17,7 @@ I have a broad spectrum of research interest in transport-related problems, with
 
   - Candicates of any major are welcomed to apply (including but not limited to Maths, Control, Operations Research, and Transportation), but are expected to have a solid background in mathematical modelling/analysis/optimization.
 
-  - PhD scholarship oppotunities include Hong Kong PhD Fellowship, PolyU Presidential PhD Fellowship, and PolyU Research Postgraduate Scholarship. Details can be find at [this webpage (PolyU Graduate School](https://www.polyu.edu.hk/en/gs/prospective-students/fellowship-scholarship-schemes/)
+  - PhD scholarship oppotunities include Hong Kong PhD Fellowship, PolyU Presidential PhD Fellowship, and PolyU Research Postgraduate Scholarship. Details can be find at [this webpage (PolyU Graduate School)](https://www.polyu.edu.hk/en/gs/prospective-students/fellowship-scholarship-schemes/)
 
 - **Postdoc positions** are available.
 
@@ -46,7 +46,7 @@ I have a broad spectrum of research interest in transport-related problems, with
     
   <tr valign="top" style="border: none;">
     <td style="border: none;"> Office: <br> &nbsp; <br> &nbsp; <br> &nbsp; </td>
-    <td style="border: none;"> CF606, Department of Electrical Engineering<br>6/F Tang Ping Yuan Building<br>Hong Kong Polytechnic University<br>Hung Hom, Kowloon, Hong Kong</td>
+    <td style="border: none;"> CF606, Department of Electrical and Electronic Engineering<br>6/F Tang Ping Yuan Building<br>Hong Kong Polytechnic University<br>Hung Hom, Kowloon, Hong Kong</td>
   </tr>
   <tr valign="top" style=" border: none;">
     <td style="border: none;"> Email: </td>
@@ -60,7 +60,7 @@ I have a broad spectrum of research interest in transport-related problems, with
   
   <tr valign="top" style=" border: none;">
     <td style="border: none;"> Webpage: </td>
-    <td style="border: none;"> <a href="https://www.polyu.edu.hk/ee/people/academic-staff/ye-hongbo/"> My University Page </a> </td>
+    <td style="border: none;"> <a href="https://www.polyu.edu.hk/eee/people/academic-staff-and-teaching-staff/dr-ye-hongbo/"> My University Page </a> </td>
   </tr>
   
 </table>
