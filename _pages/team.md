@@ -1,6 +1,6 @@
 ---
 layout: archive
-#title: "team"
+#title: "Team"
 permalink: /team/
 author_profile: true
 ---
