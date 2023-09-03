@@ -1,14 +1,14 @@
 # main links links
 main:
 
-#  - title: "Team"
-#    url: /team/
+  - title: "Team"
+    url: /team/
 
   - title: "Publications"
     url: /publications/
 
-  - title: "Fundings"
-    url: /funding/    
+#  - title: "Fundings"
+#    url: /funding/    
 
   - title: "Teaching"
     url: /teaching/    
