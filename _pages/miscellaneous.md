@@ -1,7 +1,7 @@
 ---
 layout: archive
-#title: "Research resources"
-permalink: /resources/
+#title: "Miscellaneous"
+permalink: /miscellaneous/
 author_profile: true
 ---
 
