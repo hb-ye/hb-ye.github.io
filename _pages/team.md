@@ -14,8 +14,8 @@ author_profile: true
 
 ### Students
 
-- Maoning Chen, PhD student (09/2023 - ), Master in Management Science and Engineering from Tsinghua Shenzhen International Graduate School
-- Changlin Li, PhD student (09/2023 - ), Master in Logistics Engineering and Management from Tianjin University
+- Maoning Chen, PhD student (09/2023 - )<br>Master in Management Science and Engineering from Tsinghua Shenzhen International Graduate School
+- Changlin Li, PhD student (09/2023 - )<br>Master in Logistics Engineering and Management from Tianjin University
 
 ### Researchers
 
