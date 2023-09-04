@@ -39,7 +39,7 @@ author_profile: true
     
   <tr valign="top" style="border: none;">
     <td style="border: none;"> 09/2020 - <br> &nbsp; <br> &nbsp; </td>
-    <td style="border: none;"> Research Assistant Professor<br>Department of Electrical Engineering<br>Hong Kong Polytechnic University </td>
+    <td style="border: none;"> Research Assistant Professor<br>Department of Electrical Engineering / Department of Electrical and Electronic Engineering<br>Hong Kong Polytechnic University </td>
   </tr>
   <tr valign="top" style=" border: none;">
     <td style="border: none;"> 2018-2020 <br> &nbsp; <br> &nbsp; </td>
