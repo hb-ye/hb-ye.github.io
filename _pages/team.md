@@ -19,5 +19,6 @@ author_profile: true
 
 ### Researchers
 
-- **Zhuang Xiao**, postdoc fellow <br> PhD of Engineering from Southwest Jiaotong University
 - **Fuliang Wu**, postdoc fellow <br> PhD in Management Science and Engineering from Shanghai Jiaotong University
+- **Zhuang Xiao**, postdoc fellow <br> PhD of Engineering from Southwest Jiaotong University
+
