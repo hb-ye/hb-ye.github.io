@@ -14,11 +14,12 @@ author_profile: true
 
 ### Students
 
-- **Maoning Chen**, PhD student, 09/2023 -  <br> Master in Management Science and Engineering from Tsinghua Shenzhen International Graduate School
-- **Changlin Li**, PhD student, 09/2023 -  <br> Master in Logistics Engineering and Management from Tianjin University
+- **Maoning Chen**, PhD student, 09/2023 -  <br> Master in Management Science and Engineering, Shenzhen International Graduate School <br> Bachelor in Robotics Engineering, Northeastern University
+
+- **Changlin Li**, PhD student, 09/2023 -  <br> Master in Logistics Engineering and Management, Tianjin University <br> Bachelor in Transportation, Central South University
 
 ### Researchers
 
-- **Fuliang Wu**, postdoc fellow <br> PhD in Management Science and Engineering from Shanghai Jiaotong University
-- **Zhuang Xiao**, postdoc fellow <br> PhD of Engineering from Southwest Jiaotong University
+- **Fuliang Wu**, postdoc fellow <br> PhD in Management Science and Engineering, Shanghai Jiaotong University
+- **Zhuang Xiao**, postdoc fellow <br> PhD of Engineering, Southwest Jiaotong University
 
