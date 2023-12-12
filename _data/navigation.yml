@@ -1,6 +1,9 @@
 # main links links
 main:
 
+  - title: "Openings"
+    url: /openings/
+    
   - title: "Team"
     url: /team/
 
