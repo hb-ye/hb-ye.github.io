@@ -34,10 +34,11 @@ For openings of PhDs, Research Associates and Postdocs, please see the <a href="
     <col>
   </colgroup>
     
-  <tr valign="top" style="border: none;">
-    <td style="border: none;"> Office: <br> &nbsp; <br> &nbsp; <br> &nbsp; </td>
-    <td style="border: none;"> CF606, Department of Electrical and Electronic Engineering<br>6/F Tang Ping Yuan Building<br>Hong Kong Polytechnic University<br>Hung Hom, Kowloon, Hong Kong</td>
+  <tr valign="top" style=" border: none;">
+    <td style="border: none;"> Webpage: </td>
+    <td style="border: none;"> <a href="https://www.polyu.edu.hk/eee/people/academic-staff-and-teaching-staff/dr-ye-hongbo/"> My University Page </a> </td>
   </tr>
+  
   <tr valign="top" style=" border: none;">
     <td style="border: none;"> Email: </td>
     <td style="border: none;"> hongbo DOT ye AT polyu DOT edu DOT hk </td>
@@ -48,9 +49,9 @@ For openings of PhDs, Research Associates and Postdocs, please see the <a href="
     <td style="border: none;"> +852 3400 3337 </td>
   </tr>
   
-  <tr valign="top" style=" border: none;">
-    <td style="border: none;"> Webpage: </td>
-    <td style="border: none;"> <a href="https://www.polyu.edu.hk/eee/people/academic-staff-and-teaching-staff/dr-ye-hongbo/"> My University Page </a> </td>
+  <tr valign="top" style="border: none;">
+    <td style="border: none;"> Office: <br> &nbsp; <br> &nbsp; <br> &nbsp; </td>
+    <td style="border: none;"> CF606, Department of Electrical and Electronic Engineering<br>6/F Tang Ping Yuan Building<br>Hong Kong Polytechnic University<br>Hung Hom, Kowloon, Hong Kong</td>
   </tr>
   
 </table>
