@@ -16,9 +16,7 @@ For openings of PhDs, Research Associates and Postdocs, please see the <a href="
 ### Research Interest
 
 - Transportation network modeling, management and optimization
-
 - Day-to-day traffic flow dynamics
-
 - Smart and sustainable transportation
   - Autonomous vehicle: eco-routing, eco-driving
   - Railway: scheduling, eco-driving, automatic train operation
