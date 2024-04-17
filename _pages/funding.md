@@ -14,7 +14,7 @@ author_profile: true
 ## External Research Grants
 
 - **As Principal Investigator**
-  - Planning and operation of future railway system with autonomous modularized trains and virtual coupling signaling. MTR Research Funding (MRF) Scheme (No. PTU-23018), 2024-2026, 36 months.
+  - Planning and operation of future railway system with autonomous modularized trains and virtual coupling signaling. MTR Research Funding (MRF) Scheme (No. PTU-23018), 2024-2027, 36 months.
   - Online and globally optimal models for eco-driving on urban road networks. Hong Kong RGC General Research Fund (No. 15209021), 2022-2024, 36 months.
 
 - **As Co-Investigator**
