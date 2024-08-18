@@ -15,7 +15,11 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %}
 
-Below you can also find the **errata**, **source code** and **author accepted manuscripts**.
+### Working Papers
+- Xiao, Z., Ye, H., Chung, E. Solving train eco-driving problems to global optimality. https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4928445
+
+### Published Papers
+(including **errata**, **source code** and **author accepted manuscripts**)
 
 {: reversed="reversed"}
 14. Bi, X., Wang, R., **Ye, H.**, Hu, Q., Bu, S., Chung, E., 2023. Real-time scheduling of electric bus flash charging at intermediate stops: A deep reinforcement learning approach. <u>IEEE Transactions on Transportation Electrification </u> (in press), DOI: 10.1109/TTE.2023.3343810
