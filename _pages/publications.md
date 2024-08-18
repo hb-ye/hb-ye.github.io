@@ -16,7 +16,7 @@ author_profile: true
 {% endfor %}
 
 ### Working Papers
-- Xiao, Z., Ye, H., Chung, E. Solving train eco-driving problems to global optimality. https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4928445
+- Xiao, Z., Ye, H., Chung, E. Solving train eco-driving problems to global optimality. Xiao, Zhuang and Available at SSRN: https://ssrn.com/abstract=4928445
 
 ### Published Papers
 (including **errata**, **source code** and **author accepted manuscripts**)
