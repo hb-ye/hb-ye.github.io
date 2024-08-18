@@ -20,7 +20,7 @@ author_profile: true
 
 ### Researchers
 
-{% - **Fuliang Wu**, postdoc fellow <br> PhD in Management Science and Engineering, Shanghai Jiaotong University %}
+<!-- **Fuliang Wu**, postdoc fellow <br> PhD in Management Science and Engineering, Shanghai Jiaotong University -->
 - **Zhuang Xiao** ([Google Scholar](https://scholar.google.de/citations?hl=en&user=ijnlwrYAAAAJ)), postdoc fellow <br> PhD of Engineering, Southwest Jiaotong University
 
 ### Former Members
