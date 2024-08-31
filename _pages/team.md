@@ -14,6 +14,8 @@ author_profile: true
 
 ### Students
 
+- **Yihang Han**, PhD student, 09/2024 -  <br> Master in Civil Engineering, Harbin Institute of Technology <br> Bachelor in Civil Engineering, Huazhong University of Science and Technology
+
 - **Maoning Chen**, PhD student, 09/2023 -  <br> Master in Management Science and Engineering, Shenzhen International Graduate School <br> Bachelor in Robotics Engineering, Northeastern University
 
 - **Changlin Li**, PhD student, 09/2023 -  <br> Master in Logistics Engineering and Management, Tianjin University <br> Bachelor in Transportation, Central South University
