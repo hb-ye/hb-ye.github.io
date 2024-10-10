@@ -16,13 +16,18 @@ author_profile: true
 {% endfor %}
 
 ### Working Papers
+- Shen, M., Xiao, F., Gu, W., Ye, H. Cognitive hierarchy in day-to-day network flow dynamics [Available at arXiv: https://arxiv.org/abs/2409.11908]
 - Xiao, Z., Ye, H., Chung, E. Solving train eco-driving problems to global optimality. [Available at SSRN: https://ssrn.com/abstract=4928445]
 
 ### Published Papers
 (including **errata**, **source code** and **author accepted manuscripts**)
 
 {: reversed="reversed"}
-14. Bi, X., Wang, R., **Ye, H.**, Hu, Q., Bu, S., Chung, E., 2023. Real-time scheduling of electric bus flash charging at intermediate stops: A deep reinforcement learning approach. <u>IEEE Transactions on Transportation Electrification </u> (in press), DOI: 10.1109/TTE.2023.3343810
+
+17. Wu, F., **Ye, H.**, Bektas, T., Dong, M., 2024. New and tractable formulations for the eco-driving and the eco-routing-and-driving problems. <u>European Journal of Operational Research </u> (in press)
+16. Zou, X., Chung, E., **Ye, H.**, Zhang, H., 2024. Deep learning for traffic prediction and trend deviation identification: A case study in Hong Kong. <u>Data Science for Transportation </u> 6, 27.
+15. Zhou, B., Li, S., Xu, M., **Ye, H.**, 2024. Investigating the influence of herd effect on the logit stochastic user equilibrium problem. <u>Transportation Research Part E </u> 192, 103743.
+14. Bi, X., Wang, R., **Ye, H.**, Hu, Q., Bu, S., Chung, E., 2023. Real-time scheduling of electric bus flash charging at intermediate stops: A deep reinforcement learning approach. <u>IEEE Transactions on Transportation Electrification </u> 10 (3), 6309-6324.
 13. Liang, J., Ke, J., Wang, H., **Ye, H.**, Tang, J., 2023. A Poisson-based distribution learning framework for short-term prediction of food delivery demand ranges. <u>IEEE Transactions on Intelligent Transportation Systems</u> 24 (12), 14556-14569.
 12. **Ye, H.**, 2022. On stochastic-user-equilibrium-based day-to-day dynamics. <u>Transportation Science</u> 56 (1), 103–117. [[Author Accepted Manuscript](/files/2022_SUE-DTD_TS_AAM.pdf)]
 11. Wu, F., Bektaş, T., Dong, M., **Ye, H.**, Zhang, D., 2021. Optimal driving for vehicle fuel economy under traffic speed uncertainty. <u>Transportation Research Part B</u> 154, 175-206. [[Presentation](/files/2021Wu_Presentation.pdf)]
