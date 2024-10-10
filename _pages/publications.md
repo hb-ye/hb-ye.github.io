@@ -16,8 +16,9 @@ author_profile: true
 {% endfor %}
 
 ### Working Papers
-- Shen, M., Xiao, F., Gu, W., **Ye, H.** Cognitive hierarchy in day-to-day network flow dynamics [https://arxiv.org/abs/2409.11908]
-- Xiao, Z., **Ye, H.**, Chung, E. Solving train eco-driving problems to global optimality. [https://ssrn.com/abstract=4928445]
+- Shen, M., Xiao, F., Gu, W., **Ye, H.** Cognitive hierarchy in day-to-day network flow dynamics. [<a href="https://arxiv.org/abs/2409.11908">https://arxiv.org/abs/2409.11908</a>]
+- Xiao, Z., **Ye, H.**, Chung, E. Solving train eco-driving problems to global optimality. [
+<a href="https://ssrn.com/abstract=4928445">https://ssrn.com/abstract=4928445</a>]
 
 ### Published Papers
 (including **errata**, **source code** and **author accepted manuscripts**)
