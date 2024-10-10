@@ -24,14 +24,14 @@ author_profile: true
 
 {: reversed="reversed"}
 
-17. Wu, F., **Ye, H.**, Bektas, T., Dong, M., 2024. New and tractable formulations for the eco-driving and the eco-routing-and-driving problems. <u>European Journal of Operational Research </u> (in press)
-16. Zou, X., Chung, E., **Ye, H.**, Zhang, H., 2024. Deep learning for traffic prediction and trend deviation identification: A case study in Hong Kong. <u>Data Science for Transportation </u> 6, 27.
-15. Zhou, B., Li, S., Xu, M., **Ye, H.**, 2024. Investigating the influence of herd effect on the logit stochastic user equilibrium problem. <u>Transportation Research Part E </u> 192, 103743.
-14. Bi, X., Wang, R., **Ye, H.**, Hu, Q., Bu, S., Chung, E., 2023. Real-time scheduling of electric bus flash charging at intermediate stops: A deep reinforcement learning approach. <u>IEEE Transactions on Transportation Electrification </u> 10 (3), 6309-6324.
+17. Wu, F., **Ye, H.**, Bektas, T., Dong, M., 2024. New and tractable formulations for the eco-driving and the eco-routing-and-driving problems. <u>European Journal of Operational Research</u> (in press)
+16. Zou, X., Chung, E., **Ye, H.**, Zhang, H., 2024. Deep learning for traffic prediction and trend deviation identification: A case study in Hong Kong. <u>Data Science for Transportation</u> 6, 27.
+15. Zhou, B., Li, S., Xu, M., **Ye, H.**, 2024. Investigating the influence of herd effect on the logit stochastic user equilibrium problem. <u>Transportation Research Part E</u> 192, 103743.
+14. Bi, X., Wang, R., **Ye, H.**, Hu, Q., Bu, S., Chung, E., 2023. Real-time scheduling of electric bus flash charging at intermediate stops: A deep reinforcement learning approach. <u>IEEE Transactions on Transportation Electrification</u> 10 (3), 6309-6324.
 13. Liang, J., Ke, J., Wang, H., **Ye, H.**, Tang, J., 2023. A Poisson-based distribution learning framework for short-term prediction of food delivery demand ranges. <u>IEEE Transactions on Intelligent Transportation Systems</u> 24 (12), 14556-14569.
 12. **Ye, H.**, 2022. On stochastic-user-equilibrium-based day-to-day dynamics. <u>Transportation Science</u> 56 (1), 103–117. [[Author Accepted Manuscript](/files/2022_SUE-DTD_TS_AAM.pdf)]
 11. Wu, F., Bektaş, T., Dong, M., **Ye, H.**, Zhang, D., 2021. Optimal driving for vehicle fuel economy under traffic speed uncertainty. <u>Transportation Research Part B</u> 154, 175-206. [[Presentation](/files/2021Wu_Presentation.pdf)]
-10. **Ye, H.**, Xiao, F., Yang, H., 2021. Day-to-day dynamics with advanced traveler information. <u>Transportation Research Part B</u> 144, 23-44. [[Author Accepted Manuscript](/files/2021YXY_AAM.pdf)]
+10. **Ye, H.**, Xiao, F., Yang, H., 2021. Day-to-day dynamics with advanced traveler information. <u>Transportation Research PartB</u> 144, 23-44. [[Author Accepted Manuscript](/files/2021YXY_AAM.pdf)]
 9. **Ye, H.**, Xiao, F., Yang, H., 2018. Exploration of day-to-day route choice models by a virtual experiment. <u>Transportation Research Part C</u> 94, 220-235, and <u>ISTTT22</u> (poster), Illinois, USA, 2017.
 8. **Ye, H.**, Yang, H., 2017. Rational behavior adjustment process with boundedly rational user equilibrium. <u>Transportation Science</u> 51 (3), 968-980. 
 7. **Ye, H.**, Liu, R., 2017. Nonlinear programming methods based on closed-form expressions for optimal train control. <u>Transportation Research Part C</u> 82, 102-123. [[Codes of Case Studies](/files/2017YL_codes.zip)]
