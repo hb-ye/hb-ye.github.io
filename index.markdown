@@ -11,7 +11,7 @@ I am currently a **Research Assistant Professor** in the Department of Electrica
 
 I have a broad spectrum of research interest in transport-related problems, with an aim to improve the system efficiency and sustainability to benefit both the travellers and the operators.  I have utilized optimisation and control theory in the modelling and analysis of rail and road systems as well as their operation, management and control.
 
-For openings of PhDs, Research Associates and Postdocs, please see the <a href="openings"> Openings </a> page.
+<!-- For openings of PhDs, Research Associates and Postdocs, please see the <a href="openings"> Openings </a> page. -->
 
 ### Research Interest
 
