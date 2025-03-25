@@ -22,7 +22,7 @@ author_profile: true
 (including **errata**, **source code** and **author accepted manuscripts**)
 
 {: reversed="reversed"}
-18. Xiao, Z., **Ye, H.**, Chung, E., 2025. New formulations and solution approaches for train eco-driving problems. <u>Transportation Research Part B</u> (accepted) [earlier preprint: <a href="https://ssrn.com/abstract=4928445">https://ssrn.com/abstract=4928445</a>][[Presentation](/files/2025Xiao_Presentation.pdf)]
+18. Xiao, Z., **Ye, H.**, Chung, E., 2025. New formulations and solution approaches for train eco-driving problems. <u>Transportation Research Part B</u> (accepted) [[Author Accepted Manuscript](/files/2025Xiao_AAM.pdf)][[Presentation](/files/2025Xiao_Presentation.pdf)]
 17. Wu, F., **Ye, H.**, Bektas, T., Dong, M., 2025. New and tractable formulations for the eco-driving and the eco-routing-and-driving problems. <u>European Journal of Operational Research</u> 321 (2), 445-461.
 16. Zou, X., Chung, E., **Ye, H.**, Zhang, H., 2024. Deep learning for traffic prediction and trend deviation identification: A case study in Hong Kong. <u>Data Science for Transportation</u> 6, 27.
 15. Zhou, B., Li, S., Xu, M., **Ye, H.**, 2024. Investigating the influence of herd effect on the logit stochastic user equilibrium problem. <u>Transportation Research Part E</u> 192, 103743.
