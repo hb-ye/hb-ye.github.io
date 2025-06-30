@@ -25,4 +25,4 @@ author_profile: true
 - **Zhuang Xiao** ([Google Scholar](https://scholar.google.de/citations?hl=en&user=ijnlwrYAAAAJ)), postdoc fellow <br> PhD of Engineering, Southwest Jiaotong University
 
 ### Former Members
-- **Fuliang Wu**, visiting PhD student (from Shanghai Jiaotong University) and postdoc fellow.
+- （[**Fuliang Wu**](https://ise.sysu.edu.cn/teacher/1514)), visiting PhD student (from Shanghai Jiaotong University) and postdoc fellow <br> Currently: Associate Professor, Sun Yat-sen University, China 
