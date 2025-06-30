@@ -38,7 +38,7 @@ author_profile: true
   </colgroup>
     
   <tr valign="top" style="border: none;">
-    <td style="border: none;"> 2020 - 2025 <br> &nbsp; <br> &nbsp; </td>
+    <td style="border: none;"> 2020-2025 <br> &nbsp; <br> &nbsp; </td>
     <td style="border: none;"> Research Assistant Professor<br>Department of Electrical Engineering / Department of Electrical and Electronic Engineering<br>Hong Kong Polytechnic University </td>
   </tr>
   <tr valign="top" style=" border: none;">
