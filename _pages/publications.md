@@ -15,8 +15,6 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %}
 
-{% ### Working Papers %}
-
 
 ### Published Papers
 (including **errata**, **source code** and **author accepted manuscripts**)
