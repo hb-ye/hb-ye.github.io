@@ -15,13 +15,16 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %}
 
-### Working Papers
-- Shen, M., Xiao, F., Gu, W., **Ye, H.** Cognitive hierarchy in day-to-day network flow dynamics. [<a href="https://arxiv.org/abs/2409.11908">https://arxiv.org/abs/2409.11908</a>]
+{% ### Working Papers %}
+
 
 ### Published Papers
 (including **errata**, **source code** and **author accepted manuscripts**)
 
 {: reversed="reversed"}
+
+19. Shen, M., Xiao, F., Gu, W., **Ye, H.** Cognitive hierarchy in day-to-day network flow dynamics. <u>Transportation Science</u> (accepted). Preprint: [<a href="https://arxiv.org/abs/2409.11908">https://arxiv.org/abs/2409.11908</a>]
+
 18. Xiao, Z., **Ye, H.**, Chung, E., 2025. New formulations and solution approaches for train eco-driving problems. <u>Transportation Research Part B</u> 195, 103210. [[Author Accepted Manuscript](/files/2025Xiao_AAM.pdf)][[Presentation](/files/2025Xiao_Presentation.pdf)]
 17. Wu, F., **Ye, H.**, Bektas, T., Dong, M., 2025. New and tractable formulations for the eco-driving and the eco-routing-and-driving problems. <u>European Journal of Operational Research</u> 321 (2), 445-461.
 16. Zou, X., Chung, E., **Ye, H.**, Zhang, H., 2024. Deep learning for traffic prediction and trend deviation identification: A case study in Hong Kong. <u>Data Science for Transportation</u> 6, 27.
