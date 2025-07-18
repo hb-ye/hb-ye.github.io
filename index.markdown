@@ -25,13 +25,13 @@ I have a broad spectrum of research interest in transport-related problems, with
 <!-- - Railway operation and control
 # - Eco-driving (trains and cars) -->
 
-### Contact
+<!-- - ### Contact
 
 <table style="font-size: 16px; width: 100%; border: none;">
   <colgroup>
     <col style="width: 6px; border: none;">
     <col>
-  </colgroup>
+  </colgroup> -->
     
 <!-- -   <tr valign="top" style=" border: none;">
     <td style="border: none;"> Webpage: </td>
