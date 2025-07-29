@@ -22,8 +22,8 @@ author_profile: true
 
 ### Researchers
 
-- **Zhuang Xiao** ([Google Scholar](https://scholar.google.de/citations?hl=en&user=ijnlwrYAAAAJ)), postdoc fellow <br> PhD of Engineering, Southwest Jiaotong University
+- [**Zhuang Xiao**](https://scholar.google.de/citations?hl=en&user=ijnlwrYAAAAJ), postdoc <br> PhD of Engineering, Southwest Jiaotong University
 
 ### Former Members
-- [**Fuliang Wu**](https://ise.sysu.edu.cn/teacher/1514), visiting PhD student and postdoc fellow <br>
+- [**Fuliang Wu**](https://ise.sysu.edu.cn/teacher/1514), visiting PhD student and postdoc <br>
  Currently: Associate Professor, Sun Yat-sen University, China 
