@@ -20,10 +20,12 @@ author_profile: true
 
 - **Changlin Li**, PhD student, 09/2023 -  <br> Master in Management Science and Engineering, Tianjin University <br> Bachelor in Transportation, Central South University
 
-### Researchers
 
-- [**Zhuang Xiao**](https://scholar.google.de/citations?hl=en&user=ijnlwrYAAAAJ), postdoc <br> PhD of Engineering, Southwest Jiaotong University
+<!-- ### Researchers -->
+
 
 ### Former Members
+- [**Zhuang Xiao**](https://faculty.swjtu.edu.cn/xiaozhuang), postdoc <br> 
+ Currently: Associate Professor, Southwest Jiaotong University, China 
 - [**Fuliang Wu**](https://ise.sysu.edu.cn/teacher/1514), visiting PhD student and postdoc <br>
  Currently: Associate Professor, Sun Yat-sen University, China 
