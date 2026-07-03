@@ -40,7 +40,7 @@ I have a broad spectrum of research interest in transport-related problems, with
   
   <tr valign="top" style=" border: none;">
     <td style="border: none;"> Email: </td>
-    <td style="border: none;"> **hongbo** DOT **ye** AT **scu** DOT **edu** DOT **cn** </td>
+    <td style="border: none;"> <b>hongbo</b> DOT <b>ye</b> AT <b>scu</b> DOT <b>edu</b> DOT <b>cn</b> </td>
   </tr>
 
   <tr valign="top" style="border: none;">
