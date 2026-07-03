@@ -46,7 +46,8 @@ I have a broad spectrum of research interest in transport-related problems, with
  -  <tr valign="top" style="border: none;">
     <td style="border: none;"> Address: </td>
     <td style="border: none;"> Business School, Sichuan University, Chengdu, Sichuan, China</td>
-  </tr>  
+  </tr>
+  
 </table> 
 
 <!--
