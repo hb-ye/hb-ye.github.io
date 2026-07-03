@@ -29,7 +29,5 @@ author_profile: true
 - **Ye, H.**, Liu, R., 2017. Nonlinear programming methods based on closed-form expressions for optimal train control. <u>Transportation Research Part C</u> 82, 102-123. [[Codes of Case Studies](/files/2017YL_codes.zip)]
 - **Ye, H.**, Liu, R., 2016. A multiphase optimal control method for multi-train control and scheduling on railway lines. <u>Transportation Research Part B</u> 93, 377-393. [[Codes of Case Studies](/files/2016YL_codes.zip)]
 - Xiao, F., Yang, H., **Ye, H.**, 2016. Physics of day-to-day network flow dynamics. <u>Transportation Research Part B</u> 86, 86-103. [[Errata](/files/2016XYY_Errata.pdf)]
-- Wang, X.L., **Ye, H.**, Yang, H., 2015. Decentralizing Pareto-efficient network flow/speed patterns with hybrid schemes of speed limit and road pricing. <u>Transportation Research Part E</u> 83, 51-64.
 - **Ye, H.**, Yang, H., Tan, Z.J., 2015. Learning marginal-cost pricing via a trial-and-error procedure with day-to-day flow dynamics. <u>Transportation Research Part B</u> 81, 794-807, and <u>ISTTT21</u> (lectern), Japan, 2015. 
-- Yang, H., **Ye, H.**, Li, X., Zhao, B., 2015. Speed limits, speed selection and network equilibrium. <u>Transportation Research Part C</u> 51, 260-273. [[Errata](/files/2015YYLZ_Errata.txt)] [[Codes of Case Studies](/files/2015YYLZ_codes.zip)]
 - <strong>Ye, H.</strong>, Yang, H., 2013. Continuous price and flow dynamics of tradable mobility credits. <u>Transportation Research Part B</u> 57, 436-450, and <u>ISTTT20</u> (lectern), The Netherlands, 2013.
