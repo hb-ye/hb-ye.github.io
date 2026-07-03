@@ -43,8 +43,8 @@ I have a broad spectrum of research interest in transport-related problems, with
     <td style="border: none;"> hongbo DOT ye AT scu DOT edu DOT cn </td>
   </tr>
 
- -   <tr valign="top" style="border: none;">
-    <td style="border: none;"> Address: <br> &nbsp; <br> &nbsp; <br> &nbsp; </td>
+ -  <tr valign="top" style="border: none;">
+    <td style="border: none;"> Address: </td>
     <td style="border: none;"> Business School, Sichuan University, Chengdu, Sichuan, China</td>
   </tr>  
 </table> 
